@@ -2,4 +2,4 @@
 
 ## users
 
-- keunpado: Hankyeol Yang
+- Hankyeol Yang
