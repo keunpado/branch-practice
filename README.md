@@ -2,4 +2,4 @@
 
 ## users
 
-- keunpado: 양한결
+- keunpado: 양한결(Hankyeol Yang)
